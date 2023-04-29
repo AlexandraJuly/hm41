@@ -1,0 +1,9 @@
+.scroll-container {
+    overflow-y: auto;
+    height: 400px;
+    position: relative;
+}
+
+.scroll-content {
+    position: absolute;
+}
